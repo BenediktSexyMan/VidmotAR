@@ -1,7 +1,7 @@
 # VidmotAR
 
-Kóðinn er í Assets/GoogleAR 
-Core/Configurations/DefaultSessionConfig.asset
-Assets/GoogleAR Core/Examples/HelloAR/Scripts/HelloARController.cs
-Assets/GoogleAR Core/Examples/Common/Scripts/Editor/DetectedPlaneGenerator.cs
-Assets/GoogleAR Core/Examples/Common/Scripts/Editor/PlaneDiscoveryGuide.cs
+Kóðinn er í 
+Assets/GoogleARCore/Configurations/DefaultSessionConfig.asset
+Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs
+Assets/GoogleARCore/Examples/Common/Scripts/Editor/DetectedPlaneGenerator.cs
+Assets/GoogleARCore/Examples/Common/Scripts/Editor/PlaneDiscoveryGuide.cs
